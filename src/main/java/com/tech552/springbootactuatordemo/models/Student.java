@@ -1,6 +1,7 @@
 package com.tech552.springbootactuatordemo.models;
 
-import javax.persistence.*;
+
+import jakarta.persistence.*;
 
 @Entity
 public class Student {
